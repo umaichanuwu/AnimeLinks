@@ -8,6 +8,9 @@ original repos by escartem
 
 note about cutscenes : github doesn't like files bigger than 50mb so cutscenes are compressed in splitted zip files, you have a .zip file and .z01 .z02 etc for parts. Just open the zip one with all of the parts in the same folder and it should work
 
+# 3.5
+- coming soon, about a week or so i don't know
+
 # 3.4
 - textures (only files in patch, not all of them)
     - [browse files](https://github.com/umaichanuwu/Genshin3.4/tree/7349c30f91f736f8fe1abc125f07c5f8189650dd/Texture2D)
