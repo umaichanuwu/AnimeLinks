@@ -9,7 +9,7 @@ original repos by escartem
 note about cutscenes : github doesn't like files bigger than 50mb so cutscenes are compressed in splitted zip files, you have a .zip file and .z01 .z02 etc for parts. Just open the zip one with all of the parts in the same folder and it should work
 
 # 3.5
-- coming soon, about a week or so i don't know
+- coming soon, about a week or so i don't know (update : idk what mihoyo did but it's a nightmare to extract stuff either they changed smth or my computer is having random memory leaks when reading the files. files will come idk when tho)
 
 # 3.4
 - textures (only files in patch, not all of them)
