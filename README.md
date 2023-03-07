@@ -24,9 +24,9 @@ original repos by escartem
     - coming soon
 - audio (english)
     - coming soon
-- audio (chineese)
-    - [browse files](https://github.com/umaichanuwu/3.5audiochineese/tree/3e665acbb02b0d71fbcc9b782174853b0d2506c6)
-    - [download](https://github.com/umaichanuwu/3.5audiochineese/archive/3e665acbb02b0d71fbcc9b782174853b0d2506c6.zip)
+- audio (chinese)
+    - [browse files](https://github.com/umaichanuwu/3.5audiochinese/tree/3e665acbb02b0d71fbcc9b782174853b0d2506c6)
+    - [download](https://github.com/umaichanuwu/3.5audiochinese/archive/3e665acbb02b0d71fbcc9b782174853b0d2506c6.zip)
 
 # 3.4
 - textures (patch)
