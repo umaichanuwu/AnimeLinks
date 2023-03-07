@@ -35,8 +35,6 @@ original repos by escartem
 - cutscenes (patch)
     - [browse files](https://github.com/umaichanuwu/Genshin3.4/tree/7349c30f91f736f8fe1abc125f07c5f8189650dd/cutscenes)
     - [download (textures + cutscenes)](https://github.com/umaichanuwu/Genshin3.4/archive/7349c30f91f736f8fe1abc125f07c5f8189650dd.zip)
- - audio (base game)
-    - coming soon
 - audio (english)
     - coming soon
 
@@ -44,8 +42,6 @@ original repos by escartem
 - textures (patch)
     - [browse files](https://github.com/umaichanuwu/GenshinTextures3.3/tree/29425aed277c1dfeb15c09e07fa9d3ab9751de13/textures)
     - [download](https://github.com/umaichanuwu/GenshinTextures3.3/archive/29425aed277c1dfeb15c09e07fa9d3ab9751de13.zip)
-- audio (base game)
-    - coming soon
 - audio (english)
     - coming soon
 
