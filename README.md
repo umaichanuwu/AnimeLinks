@@ -20,10 +20,6 @@ original repos by escartem
     - [download](https://github.com/umaichanuwu/3.5textures/archive/a2c0e89527403af11a90d3f61646f42557cd254b.zip)
 - cutscenes (english) - [read note](https://github.com/umaichanuwu/3.5-cutscenes-english/tree/6930a1368eb70b15aa1508f444b10f2879690e5d/README.md)
     - [download](https://github.com/umaichanuwu/3.5-cutscenes-english/archive/6930a1368eb70b15aa1508f444b10f2879690e5d.zip)
-- audio (base game)
-    - coming soon
-- audio (english)
-    - coming soon
 - audio (chinese)
     - [browse files](https://github.com/umaichanuwu/3.5audiochinese/tree/3e665acbb02b0d71fbcc9b782174853b0d2506c6)
     - [download](https://github.com/umaichanuwu/3.5audiochinese/archive/3e665acbb02b0d71fbcc9b782174853b0d2506c6.zip)
@@ -35,15 +31,11 @@ original repos by escartem
 - cutscenes (patch)
     - [browse files](https://github.com/umaichanuwu/Genshin3.4/tree/7349c30f91f736f8fe1abc125f07c5f8189650dd/cutscenes)
     - [download (textures + cutscenes)](https://github.com/umaichanuwu/Genshin3.4/archive/7349c30f91f736f8fe1abc125f07c5f8189650dd.zip)
-- audio (english)
-    - coming soon
 
 # 3.3
 - textures (patch)
     - [browse files](https://github.com/umaichanuwu/GenshinTextures3.3/tree/29425aed277c1dfeb15c09e07fa9d3ab9751de13/textures)
     - [download](https://github.com/umaichanuwu/GenshinTextures3.3/archive/29425aed277c1dfeb15c09e07fa9d3ab9751de13.zip)
-- audio (english)
-    - coming soon
 
 # 3.2
 - textures
