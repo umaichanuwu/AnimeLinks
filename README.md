@@ -14,6 +14,11 @@ original repos by escartem
 * by default, all links refer to the full content in game at that version, unless (patch) is specified in which case it will only be the files in the update patch. also note that textures are in blocks and therefore inside a patch there will be both new and already existing files, cutscenes however will only be the new ones if (patch) is present.
 ---
 
+# 3.6
+- textures (patch)
+    - [browse files](https://github.com/umaichanuwu/3.6textures/tree/81b8fc87a6308d65a356ecfb971cdae2aab67912/Texture2D)
+    - [download](https://github.com/umaichanuwu/3.6textures/archive/81b8fc87a6308d65a356ecfb971cdae2aab67912.zip)
+
 # 3.5
 - textures (patch)
     - [browse files](https://github.com/umaichanuwu/3.5textures/tree/a2c0e89527403af11a90d3f61646f42557cd254b/Texture2D)
