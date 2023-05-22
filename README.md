@@ -14,10 +14,16 @@ original repos by escartem
 * by default, all links refer to the full content in game at that version, unless (patch) is specified in which case it will only be the files in the update patch. also note that textures are in blocks and therefore inside a patch there will be both new and already existing files, cutscenes however will only be the new ones if (patch) is present.
 ---
 
+# 3.7
+- textures (3.6 + 3.7 patch)
+    - [browse files 3.6 + 3.7](https://github.com/umaichanuwu/3.6-3.7textures/tree/b056b767e3f01fce99d8c60b165517cfb616b534/Texture2D)
+    - [download 3.6 + 3.7](https://github.com/umaichanuwu/3.6-3.7textures/archive/b056b767e3f01fce99d8c60b165517cfb616b534.zip)
+    - [changed files between 3.6 and 3.7 (may take time to load)](https://github.com/umaichanuwu/3.6-3.7textures/compare/3.6...3.7)
+
 # 3.6
 - textures (patch)
-    - [browse files](https://github.com/umaichanuwu/3.6textures/tree/81b8fc87a6308d65a356ecfb971cdae2aab67912/Texture2D)
-    - [download](https://github.com/umaichanuwu/3.6textures/archive/81b8fc87a6308d65a356ecfb971cdae2aab67912.zip)
+    - [browse files](https://github.com/umaichanuwu/3.6-3.7textures/tree/81b8fc87a6308d65a356ecfb971cdae2aab67912/Texture2D)
+    - [download](https://github.com/umaichanuwu/3.6-3.7textures/archive/81b8fc87a6308d65a356ecfb971cdae2aab67912.zip)
 
 # 3.5
 - textures (patch)
