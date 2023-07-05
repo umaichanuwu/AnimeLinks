@@ -14,6 +14,9 @@ original repos by escartem
 * by default, all links refer to the full content in game at that version, unless (patch) is specified in which case it will only be the files in the update patch. also note that textures are in blocks and therefore inside a patch there will be both new and already existing files, cutscenes however will only be the new ones if (patch) is present.
 ---
 
+# 3.8
+- currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
+
 # 3.7
 - textures (3.6 + 3.7 patch)
     - [browse files 3.6 + 3.7](https://github.com/umaichanuwu/3.6-3.7textures/tree/b056b767e3f01fce99d8c60b165517cfb616b534/Texture2D)
