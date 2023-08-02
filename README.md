@@ -1,6 +1,8 @@
 # GenshinLinks
 all links to extracted content from genshin impact, if you have any suggestion question or idk send mail to `noreply.service.main.fr@gmail.com` (don't ask questions about the mail it's a real one)
 
+## Also check out [StarRailTextures](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
+
 ---
 
 original repos by escartem
