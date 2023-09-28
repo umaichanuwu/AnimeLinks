@@ -16,6 +16,14 @@ original repos by escartem
 * by default, all links refer to the full content in game at that version, unless (patch) is specified in which case it will only be the files in the update patch. also note that textures are in blocks and therefore inside a patch there will be both new and already existing files, cutscenes however will only be the new ones if (patch) is present.
 ---
 
+## extracting this stuff just takes too much time, so i won't always post content in here unless requested from now on, except some time for responses as well
+
+# 4.1
+- currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
+
+# 4.0
+- currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
+
 # 3.8
 - currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
 
