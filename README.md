@@ -5,6 +5,10 @@ all links to extracted content from genshin impact, if you have any suggestion q
 
 ---
 
+ ## [tool to extract audio yourself](https://github.com/Escartem/AnimeWwise)
+
+---
+
 original repos by escartem
 - [GenshinTextures](https://github.com/Escartem/GenshinTextures) - DMCA takedown
 - [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes) - DMCA takedown
@@ -60,6 +64,9 @@ original repos by escartem
 - textures (patch)
     - [browse files](https://github.com/umaichanuwu/GenshinTextures3.3/tree/29425aed277c1dfeb15c09e07fa9d3ab9751de13/textures)
     - [download](https://github.com/umaichanuwu/GenshinTextures3.3/archive/29425aed277c1dfeb15c09e07fa9d3ab9751de13.zip)
+- audio (japaneese, only 3.3 patch)
+    - [browse files](https://github.com/umaichanuwu/3.3audioPatchJP/tree/32b1e1390494eff11c2dd4068cb9e680ad49fa0e)
+    - [download](https://github.com/umaichanuwu/3.3audioPatchJP/archive/32b1e1390494eff11c2dd4068cb9e680ad49fa0e.zip)
 
 # 3.2
 - textures
