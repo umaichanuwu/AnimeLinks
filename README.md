@@ -23,7 +23,9 @@ original repos by escartem
 ## extracting this stuff just takes too much time, so i won't always post content in here unless requested from now on, except some time for responses as well
 
 # 4.1
-- currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
+- textures (full game)
+    - [download](https://github.com/umaichanuwu/Genshin4.1TexturesFull/archive/79084578f742757df7728f6f5cc2d1b571b29194.zip)
+    - [browse files](https://github.com/umaichanuwu/Genshin4.1TexturesFull/tree/79084578f742757df7728f6f5cc2d1b571b29194/Texture2D)
 
 # 4.0
 - currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
