@@ -1,26 +1,41 @@
 # GenshinLinks
-all links to extracted content from genshin impact, if you have any suggestion question or idk send mail to `noreply.service.main.fr@gmail.com` (don't ask questions about the mail it's a real one)
 
-## Also check out [StarRailTextures](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
-
----
-
- ## [tool to extract audio yourself](https://github.com/Escartem/AnimeWwise)
+all links to extracted content from genshin impact, if you have any suggestion, question or similar either join [escartem's discord](https://discord.gg/fzRdtVh) or send a mail to `noreply.service.main.fr@gmail.com`
 
 ---
 
-original repos by escartem
-- [GenshinTextures](https://github.com/Escartem/GenshinTextures) - DMCA takedown
-- [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes) - DMCA takedown
-- [GenshinAudio](https://github.com/Escartem/GenshinAudio) - still available but not updated anymore
+### Original repos by escartem
+
+| Repo | Status |
+| --- | --- |
+| [AnimeWwise](https://github.com/Escartem/AnimeWwise) | tool to extract audio yourself, still updated |
+| [GenshinTextures](https://github.com/Escartem/GenshinTextures) | DMCA takedown |
+| [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes) | DMCA takedown |
+| [GenshinAudio](https://github.com/Escartem/GenshinAudio) | still available but not updated anymore, you can still make requests here |
 
 ---
-## Notes
-* note about cutscenes : github doesn't like files bigger than 50mb so cutscenes are compressed in splitted zip files, you have a .zip file and .z01 .z02 etc for parts. Just open the zip one with all of the parts in the same folder and it should work
-* by default, all links refer to the full content in game at that version, unless (patch) is specified in which case it will only be the files in the update patch. also note that textures are in blocks and therefore inside a patch there will be both new and already existing files, cutscenes however will only be the new ones if (patch) is present.
+
+## Also check out [StarRailTextures](https://github.com/umaichanuwu/StarRailTextures)
+
+| [Readme](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md) | [v1.2 textures](https://github.com/umaichanuwu/StarRailTextures/tree/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113/assets) | [v1.5 textures](https://github.com/umaichanuwu/StarRailTextures/tree/9f9ec82cfd1c856a3f66d782253ec09abcc3fb50/assets) |
+| --- | --- | --- |
+
 ---
 
-## extracting this stuff just takes too much time, so i won't always post content in here unless requested from now on, except some time for responses as well
+<details>
+ <summary>Notes</summary>
+ 
+ - note about cutscenes : github doesn't like files bigger than 50mb so cutscenes are compressed in splitted zip files, you have a .zip file and .z01 .z02 etc for parts. Just open the zip one with all of the parts in the same folder and it should work
+ 
+ - by default, all links refer to the full content in game at that version, unless (patch) is specified in which case it will only be the files in the update patch. also note that textures are in blocks and therefore inside a patch there will be both new and already existing files, cutscenes however will only be the new ones if (patch) is present.
+   
+ - extracting stuff takes a lot of time, so i won't always post content in here unless requested, do except some time for responses as well
+</details>
+
+---
+
+# 4.2
+- currently not planned to be added, join the [discord](https://discord.gg/fzRdtVh) to request something and i'll add it
 
 # 4.1
 - textures (full game)
@@ -28,10 +43,10 @@ original repos by escartem
     - [browse files](https://github.com/umaichanuwu/Genshin4.1TexturesFull/tree/79084578f742757df7728f6f5cc2d1b571b29194/Texture2D)
 
 # 4.0
-- currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
+- currently not planned to be added, join the [discord](https://discord.gg/fzRdtVh) to request something and i'll add it
 
 # 3.8
-- currently not planned to be added, send a mail to `noreply.service.main.fr@gmail.com` to request something and i'll add it
+- currently not planned to be added, join the [discord](https://discord.gg/fzRdtVh) to request something and i'll add it
 
 # 3.7
 - textures (3.6 + 3.7 patch)
