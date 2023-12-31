@@ -34,6 +34,9 @@ all links to extracted content from genshin impact, if you have any suggestion, 
 
 ---
 
+# 4.3
+- currently not planned to be added, join the [discord](https://discord.gg/fzRdtVh) to request something and i'll add it
+
 # 4.2
 - currently not planned to be added, join the [discord](https://discord.gg/fzRdtVh) to request something and i'll add it
 
