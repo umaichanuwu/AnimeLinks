@@ -1,6 +1,6 @@
 # GenshinLinks
 
-## Welcome to this page with all stuff extracted from mihoyo games at any version (●'◡'●)
+## Welcome to this page with all the stuff extracted from mihoyo games at any version (●'◡'●)
 ### If you have any question, request, dead link, etc :
 - [join escartem's discord](https://discord.gg/fzRdtVh)
 - [send mail](mailto:noreply.service.main.fr@gmail.com)
@@ -18,8 +18,8 @@
 
 # Notes
 - extracting takes a lot of time, so I won't always post content here unless requested, you can join the [discord](https://discord.gg/fzRdtVh) to ask for something
-- github doesn't allow files bigger than 50mb so cutscenes are compressed in split zip files, you have a .zip file and .z01 .z02, etc for parts. Just open the .zip one with all of the others parts in the same folder and it will work
-- for any extracted content, if full is specified then it's full data at that point in the game, if it's patch it's only data inside the update file. Keep in mind update patches don't necessarily contains new stuff, they may contains changed files or files that didn't even changed
+- GitHub doesn't allow files bigger than 50MB so cutscenes are compressed in split zip files, you have a .zip file and .z01 .z02, etc for parts. Just open the .zip one with all of the other parts in the same folder and it will work
+- for any extracted content, if full is specified then it's full data at that point in the game, if it's patch it's only data inside the update file. Keep in mind update patches don't necessarily contain new stuff, they may contain changed files or files that didn't even change
 
 ---
 
