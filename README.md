@@ -38,6 +38,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
+| **4.5** | ⏰ planned | :x: | :x: |
 | **4.4** | :x: | :x: | :x: |
 | **4.3** | :x: | :x: | :x: |
 | **4.2** | :x: | :x: | :x: |
@@ -64,6 +65,8 @@
 
 | _Version_ | _Content_ |
 | --- | --- |
+| 2.1 | ⏰ planned |
+| 2.0 | - |
 | 1.6 | - |
 | 1.5 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9f9ec82cfd1c856a3f66d782253ec09abcc3fb50/assets) |
 | 1.4 | - |
