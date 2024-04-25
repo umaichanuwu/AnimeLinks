@@ -38,7 +38,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
-| **4.6** | ⏰ planned | ⏰ planned | ⏰ planned |
+| **4.6** | ⏰ planned | english patch ([browse](https://github.com/umaichanuwu/4.6-audio-patch-en/tree/master/English(US)) \| [download](https://github.com/umaichanuwu/4.6-audio-patch-en/archive/refs/heads/master.zip) \| [note](https://github.com/umaichanuwu/4.6-audio-patch-en/blob/master/README.md)) | ⏰ planned |
 | __**Important notice for 4.6 :**__ mihoyo changed the game encryption again, while 4.6 is planned, there is no known date for when it will be possible to extract the files, you'll need to wait until a method is found | | |
 | **4.5** | patch ([browse](https://github.com/umaichanuwu/gi-4.5-textures-patch/tree/e80ba03a1d3f6122128b8fbe6d09ecf80aec330c/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.5-textures-patch/archive/e80ba03a1d3f6122128b8fbe6d09ecf80aec330c.zip)) | :x: | :x: |
 | **4.4** | patch ([browse](https://github.com/umaichanuwu/gi-4.4-textures-patch/tree/02ac1f2ec9cbf6eb42812162f681c8446b657803/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.4-textures-patch/archive/02ac1f2ec9cbf6eb42812162f681c8446b657803.zip)) | :x: | :x: |
