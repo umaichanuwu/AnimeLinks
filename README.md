@@ -66,7 +66,7 @@
 
 | _Version_ | _Content_ |
 | --- | --- |
-| 2.1 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/8cf53fc421fecdc28c51102d32f16e54cc1cef47/assets) \| [note](https://github.com/umaichanuwu/StarRailTextures/blob/8cf53fc421fecdc28c51102d32f16e54cc1cef47/README.md) |
+| 2.1 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9575c8866cdc41f58f94d287788066684117a5b1/assets) \| [note](https://github.com/umaichanuwu/StarRailTextures/blob/9575c8866cdc41f58f94d287788066684117a5b1/README.md) |
 | 2.0 | - |
 | 1.6 | - |
 | 1.5 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9f9ec82cfd1c856a3f66d782253ec09abcc3fb50/assets) |
