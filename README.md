@@ -56,6 +56,8 @@
 | **3.0** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/f72cd86d67aaafe76c3bd587cb939cb09c540000/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/f72cd86d67aaafe76c3bd587cb939cb09c540000.zip)) | :x: | :x: |
 | **2.8** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/d277f245b83e4365c842acd94df2528598fb8673/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/d277f245b83e4365c842acd94df2528598fb8673.zip)) | :x: | :x: |
 | **2.7** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/e7b09142cf58c2a5fd6ed3d3c8ebbcc86e6e2a61/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/e7b09142cf58c2a5fd6ed3d3c8ebbcc86e6e2a61.zip)) | :x: | :x: |
+| **2.6** | :x: | :x: | :x: |
+| **2.5** | :x: | :x: | :x: |
 | **other** | [additional content here](https://mega.nz/folder/MF92hbbT#ghPNQGd9H29NEma0bzL45g) | - | - |
 
 ---
@@ -66,6 +68,7 @@
 
 | _Version_ | _Content_ |
 | --- | --- |
+| 2.2 | soon |
 | 2.1 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9575c8866cdc41f58f94d287788066684117a5b1/assets) \| [note](https://github.com/umaichanuwu/StarRailTextures/blob/9575c8866cdc41f58f94d287788066684117a5b1/README.md) |
 | 2.0 | - |
 | 1.6 | - |
