@@ -58,7 +58,11 @@
 | **2.8** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/d277f245b83e4365c842acd94df2528598fb8673/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/d277f245b83e4365c842acd94df2528598fb8673.zip)) | :x: | :x: |
 | **2.7** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/e7b09142cf58c2a5fd6ed3d3c8ebbcc86e6e2a61/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/e7b09142cf58c2a5fd6ed3d3c8ebbcc86e6e2a61.zip)) | :x: | :x: |
 | **2.6** | :x: | :x: | :x: |
-| **2.5** | :x: | :x: | :x: |
+| **2.5** | patch ([browse](https://github.com/umaichanuwu/gi-2.5-tex-patch/tree/a0be13ce3205b0131f7720d150d181fef76515a4/Texture2D) \| [download](https://github.com/umaichanuwu/gi-2.5-tex-patch/archive/81b8fc87a6308d65a356ecfb971cdae2aab67912.zip)) | :x: | :x: |
+| **2.4** | patch ([browse](https://github.com/umaichanuwu/gi-2.4-tex-patch/tree/a6c2ee39c1b2694145a9af02b9b69b844276eb54/Texture2D) \| [download](https://github.com/umaichanuwu/gi-2.4-tex-patch/archive/a6c2ee39c1b2694145a9af02b9b69b844276eb54.zip)) | :x: | :x: |
+| **2.3** | :x: | :x: | :x: |
+| **2.2** | :x: | :x: | :x: |
+| **2.1** | patch ([browse](https://github.com/umaichanuwu/gi-2.1-tex-patch/tree/87c7b8687fa26ea976ebceda0ce7ec1d5efe8093/Texture2D) \| [download](https://github.com/umaichanuwu/gi-2.1-tex-patch/archive/87c7b8687fa26ea976ebceda0ce7ec1d5efe8093.zip)) | :x: | :x: |
 | **other** | [additional content here](https://mega.nz/folder/MF92hbbT#ghPNQGd9H29NEma0bzL45g) | - | - |
 
 ---
