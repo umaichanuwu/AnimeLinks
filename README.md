@@ -12,7 +12,8 @@
 ### [Notes](https://github.com/umaichanuwu/GenshinLinks/#notes)
 ### [Original repos](https://github.com/umaichanuwu/GenshinLinks/#original-repos)
 ### [Genshin extracted stuff](https://github.com/umaichanuwu/GenshinLinks/#genshin)
-### [Star Rail extracted stuff (new)](https://github.com/umaichanuwu/GenshinLinks/#star-rail)
+### [Star Rail extracted stuff](https://github.com/umaichanuwu/GenshinLinks/#star-rail)
+### [More games](https://github.com/umaichanuwu/GenshinLinks/#more-games)
 
 ---
 
@@ -78,3 +79,10 @@
 | 1.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113/assets) |
 | 1.1 | - |
 | 1.0 | - |
+
+---
+
+# More Games
+
+- [Reverse1999 audio + textures](https://github.com/Escartem/Reverse1999Dump)
+- [Wuthering Waves textures](https://github.com/Escartem/WutheringWavesTextures)
