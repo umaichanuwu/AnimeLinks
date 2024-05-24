@@ -69,20 +69,20 @@
 
 # Star Rail 
 
-- [Readme](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
+> The asset map is a .json file in the form {"filename": "filepath"}, it's objective is to help searching files in the repository without having to download everything
 
-| _Version_ | _Content_ |
-| --- | --- |
-| 2.2 | soon |
-| 2.1 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9575c8866cdc41f58f94d287788066684117a5b1/assets) \| [note](https://github.com/umaichanuwu/StarRailTextures/blob/9575c8866cdc41f58f94d287788066684117a5b1/README.md) |
-| 2.0 | - |
-| 1.6 | - |
-| 1.5 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9f9ec82cfd1c856a3f66d782253ec09abcc3fb50/assets) |
-| 1.4 | - |
-| 1.3 | - |
-| 1.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113/assets) |
-| 1.1 | - |
-| 1.0 | - |
+| _Version_ | _Content_ | _Readme_ | _Asset Map_ |
+| --- | --- | --- | --- |
+| 2.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/5921e106f28a7248741d8d30147f3bf86ab3b3ed/assets) \| [download (~21Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/5921e106f28a7248741d8d30147f3bf86ab3b3ed.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/5921e106f28a7248741d8d30147f3bf86ab3b3ed/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/sr22f.json) |
+| 2.1 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9575c8866cdc41f58f94d287788066684117a5b1/assets) \| [download (~20Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/8cf53fc421fecdc28c51102d32f16e54cc1cef47.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/9575c8866cdc41f58f94d287788066684117a5b1/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/2.1-full.json) |
+| 2.0 | - | - | - |
+| 1.6 | - | - | - |
+| 1.5 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9f9ec82cfd1c856a3f66d782253ec09abcc3fb50/assets) \| [download (~14Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/9f9ec82cfd1c856a3f66d782253ec09abcc3fb50.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/9f9ec82cfd1c856a3f66d782253ec09abcc3fb50/README.md) | - |
+| 1.4 | - | - | - |
+| 1.3 | - | - | - |
+| 1.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113/assets) \| [download (~10Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113/README.md) | - |
+| 1.1 | - | - | - |
+| 1.0 | - | - | - |
 
 ---
 
