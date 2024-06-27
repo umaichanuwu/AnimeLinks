@@ -5,6 +5,8 @@
 - [join escartem's discord](https://discord.gg/fzRdtVh)
 - [send mail](mailto:noreply.service.main.fr@gmail.com)
 
+# ▶️ The upload schedule is currently slowed down, if you want something to be added please contact and ask as it may not be necessarily added here
+
 ---
 
 # Table of contents
@@ -39,7 +41,8 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
-| **4.7** | ⏰ planned | :x: | :x: |
+| **4.8** | :x: | :x: | :x: |
+| **4.7** | ⏰ planned (probably) | :x: | :x: |
 | **4.6** | full game ~ 20gb ([browse](https://github.com/umaichanuwu/gi-tex-4.6-full/tree/06c171c80bfe0512add8d65e32dc453be22693a9/Texture2D) \| [download](https://github.com/umaichanuwu/gi-tex-4.6-full/archive/06c171c80bfe0512add8d65e32dc453be22693a9.zip) \| [note](https://github.com/umaichanuwu/gi-tex-4.6-full/blob/06c171c80bfe0512add8d65e32dc453be22693a9/README.md)) | english patch ([browse](https://github.com/umaichanuwu/4.6-audio-patch-en/tree/f447a184544e77294426333b59840e9514967d39/English(US)) \| [download](https://github.com/umaichanuwu/4.6-audio-patch-en/archive/f447a184544e77294426333b59840e9514967d39.zip) \| [note](https://github.com/umaichanuwu/4.6-audio-patch-en/blob/f447a184544e77294426333b59840e9514967d39/README.md)) | english only 3.6 to 4.6 ([read note](https://github.com/umaichanuwu/3.5-cutscenes-english/tree/6930a1368eb70b15aa1508f444b10f2879690e5d/README.md) \| [download](https://github.com/umaichanuwu/gi-cutscenes-english-36-46/archive/cea8ce3ee90c7a6028010f39075e315a396013ab.zip)) |
 | **4.5** | patch ([browse](https://github.com/umaichanuwu/gi-4.5-textures-patch/tree/e80ba03a1d3f6122128b8fbe6d09ecf80aec330c/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.5-textures-patch/archive/e80ba03a1d3f6122128b8fbe6d09ecf80aec330c.zip)) | :x: | :x: |
 | **4.4** | patch ([browse](https://github.com/umaichanuwu/gi-4.4-textures-patch/tree/02ac1f2ec9cbf6eb42812162f681c8446b657803/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.4-textures-patch/archive/02ac1f2ec9cbf6eb42812162f681c8446b657803.zip)) | :x: | :x: |
@@ -74,6 +77,7 @@
 
 | _Version_ | _Content_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
+| 2.3 | --- | --- | --- |
 | 2.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/5921e106f28a7248741d8d30147f3bf86ab3b3ed/assets) \| [download (~21Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/5921e106f28a7248741d8d30147f3bf86ab3b3ed.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/5921e106f28a7248741d8d30147f3bf86ab3b3ed/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/sr22f.json) |
 | 2.1 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9575c8866cdc41f58f94d287788066684117a5b1/assets) \| [download (~20Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/8cf53fc421fecdc28c51102d32f16e54cc1cef47.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/9575c8866cdc41f58f94d287788066684117a5b1/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/2.1-full.json) |
 | 2.0 | - | - | - |
