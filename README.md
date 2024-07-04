@@ -1,5 +1,9 @@
 # GenshinLinks
 
+---
+# ⚠️ _this page is soon going to be renamed to AnimeLinks, please watch out and update your bookmarks if necessary_
+---
+
 ## Welcome to this page with all the stuff extracted from mihoyo games at any version (●'◡'●)
 ### If you have any question, request, dead link, etc :
 - [join escartem's discord](https://discord.gg/fzRdtVh)
