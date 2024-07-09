@@ -1,7 +1,7 @@
-# GenshinLinks
+# AnimeLinks
 
 ---
-# ⚠️ _this page is soon going to be renamed to AnimeLinks, please watch out and update your bookmarks if necessary_
+# ⚠️ _this page was renamed to AnimeLinks, please watch out and update your bookmarks if necessary_
 ---
 
 ## Welcome to this page with all the stuff extracted from mihoyo games at any version (●'◡'●)
@@ -15,12 +15,12 @@
 
 # Table of contents
 
-### [Notes](https://github.com/umaichanuwu/GenshinLinks/#notes-1)
-### [Original repos](https://github.com/umaichanuwu/GenshinLinks/#original-repos-1)
-### [Genshin](https://github.com/umaichanuwu/GenshinLinks/#genshin-1)
-### [Star Rail](https://github.com/umaichanuwu/GenshinLinks/#star-rail-1)
-### [Reverse 1999](https://github.com/umaichanuwu/GenshinLinks/#reverse-1999-1)
-### [Wuthering Waves](https://github.com/umaichanuwu/GenshinLinks/#wuthering-waves-1)
+### [Notes](https://github.com/umaichanuwu/AnimeLinks/#notes-1)
+### [Original repos](https://github.com/umaichanuwu/AnimeLinks/#original-repos-1)
+### [Genshin](https://github.com/umaichanuwu/AnimeLinks/#genshin-1)
+### [Star Rail](https://github.com/umaichanuwu/AnimeLinks/#star-rail-1)
+### [Reverse 1999](https://github.com/umaichanuwu/AnimeLinks/#reverse-1999-1)
+### [Wuthering Waves](https://github.com/umaichanuwu/AnimeLinks/#wuthering-waves-1)
 
 ---
 
