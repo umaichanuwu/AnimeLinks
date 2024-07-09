@@ -82,7 +82,7 @@
 
 | _Version_ | _Content_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
-| 2.3 | --- | --- | --- |
+| 2.3 | - | - | - |
 | 2.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/5921e106f28a7248741d8d30147f3bf86ab3b3ed/assets) \| [download (~21Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/5921e106f28a7248741d8d30147f3bf86ab3b3ed.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/5921e106f28a7248741d8d30147f3bf86ab3b3ed/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/sr22f.json) |
 | 2.1 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/9575c8866cdc41f58f94d287788066684117a5b1/assets) \| [download (~20Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/8cf53fc421fecdc28c51102d32f16e54cc1cef47.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/9575c8866cdc41f58f94d287788066684117a5b1/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/2.1-full.json) |
 | 2.0 | - | - | - |
