@@ -15,12 +15,12 @@
 
 # Table of contents
 
-### [Notes](https://github.com/umaichanuwu/GenshinLinks/#notes)
-### [Original repos](https://github.com/umaichanuwu/GenshinLinks/#original-repos)
-### [Genshin](https://github.com/umaichanuwu/GenshinLinks/#genshin)
-### [Star Rail](https://github.com/umaichanuwu/GenshinLinks/#star-rail)
-### [Reverse 1999](https://github.com/umaichanuwu/GenshinLinks/#reverse-1999)
-### [Wuthering Waves](https://github.com/umaichanuwu/GenshinLinks/#wuthering-waves)
+### [Notes](https://github.com/umaichanuwu/GenshinLinks/#notes-1)
+### [Original repos](https://github.com/umaichanuwu/GenshinLinks/#original-repos-1)
+### [Genshin](https://github.com/umaichanuwu/GenshinLinks/#genshin-1)
+### [Star Rail](https://github.com/umaichanuwu/GenshinLinks/#star-rail-1)
+### [Reverse 1999](https://github.com/umaichanuwu/GenshinLinks/#reverse-1999-1)
+### [Wuthering Waves](https://github.com/umaichanuwu/GenshinLinks/#wuthering-waves-1)
 
 ---
 
