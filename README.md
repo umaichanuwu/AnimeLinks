@@ -17,9 +17,10 @@
 
 ### [Notes](https://github.com/umaichanuwu/GenshinLinks/#notes)
 ### [Original repos](https://github.com/umaichanuwu/GenshinLinks/#original-repos)
-### [Genshin extracted stuff](https://github.com/umaichanuwu/GenshinLinks/#genshin)
-### [Star Rail extracted stuff](https://github.com/umaichanuwu/GenshinLinks/#star-rail)
-### [More games](https://github.com/umaichanuwu/GenshinLinks/#more-games)
+### [Genshin](https://github.com/umaichanuwu/GenshinLinks/#genshin)
+### [Star Rail](https://github.com/umaichanuwu/GenshinLinks/#star-rail)
+### [Reverse 1999](https://github.com/umaichanuwu/GenshinLinks/#reverse-1999)
+### [Wuthering Waves](https://github.com/umaichanuwu/GenshinLinks/#wuthering-waves)
 
 ---
 
@@ -95,7 +96,16 @@
 
 ---
 
-# More Games
+# Reverse 1999
 
-- [Reverse1999 audio + textures](https://github.com/Escartem/Reverse1999Dump)
-- [Wuthering Waves textures](https://github.com/Escartem/WutheringWavesTextures)
+| _Version_ | _Links_ |
+| --- | --- |
+| 1.0 |  [browse](https://github.com/Escartem/Reverse1999Dump/tree/8339b91f10492bfc67f495d66fd79ae594d219d4) | [download](https://github.com/Escartem/Reverse1999Dump/archive/8339b91f10492bfc67f495d66fd79ae594d219d4.zip) |
+| 1.2 | [browse](https://github.com/Escartem/Reverse1999Dump/tree/40b8c560e094cccc68fc9035c151ba0ac07e0c27) | [download](https://github.com/Escartem/Reverse1999Dump/archive/40b8c560e094cccc68fc9035c151ba0ac07e0c27.zip) |
+| 1.4 | [browse](https://github.com/Escartem/Reverse1999Dump/tree/eff772d77710bbaa489be45eb5e1fe4b008887e2) | [download](https://github.com/Escartem/Reverse1999Dump/archive/eff772d77710bbaa489be45eb5e1fe4b008887e2.zip) |
+
+---
+
+# Wuthering Waves
+
+* [1.0 textures](https://github.com/Escartem/WutheringWavesTextures)
