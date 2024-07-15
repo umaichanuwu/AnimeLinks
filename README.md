@@ -1,7 +1,7 @@
-# AnimeLinks
+# AnimeLinks (previously GenshinLinks)
 
 ---
-# ⚠️ _this page was renamed to AnimeLinks, please watch out and update your bookmarks if necessary_
+# ℹ️ _a new tool was released to browse & view more easily all the assets listed here, you can access it [here](https://assets.escartem.eu.org/)_
 ---
 
 ## Welcome to this page with all the stuff extracted from anime games at any version (●'◡'●)
