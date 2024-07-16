@@ -19,6 +19,7 @@
 ### [Original repos](https://github.com/umaichanuwu/AnimeLinks/#original-repos-1)
 ### [Genshin](https://github.com/umaichanuwu/AnimeLinks/#genshin-1)
 ### [Star Rail](https://github.com/umaichanuwu/AnimeLinks/#star-rail-1)
+### [Zenless Zone Zero](https://github.com/umaichanuwu/AnimeLinks/#zenless-zone-zero-1)
 ### [Reverse 1999](https://github.com/umaichanuwu/AnimeLinks/#reverse-1999-1)
 ### [Wuthering Waves](https://github.com/umaichanuwu/AnimeLinks/#wuthering-waves-1)
 
@@ -93,6 +94,14 @@
 | 1.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113/assets) \| [download (~10Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/4d5433ffaeb765ef3d6faf9bfc67f0b28b16f113/README.md) | - |
 | 1.1 | - | - | - |
 | 1.0 | - | - | - |
+
+---
+
+# Zenless Zone Zero
+
+| _Version_ | _Textures_ | _Meshes_ |
+| - | - | - |
+| **1.0** | [browse](https://github.com/umaichanuwu/zzz-tex-10/tree/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/Texture2D) \| [readme](https://github.com/umaichanuwu/zzz-tex-10/blob/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/README.md) | [browse](https://github.com/umaichanuwu/zzz-mesh-10/tree/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/Mesh) \| [readme](https://github.com/umaichanuwu/zzz-mesh-10/blob/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/README.md) |
 
 ---
 
