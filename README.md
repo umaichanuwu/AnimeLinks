@@ -9,8 +9,6 @@
 - [join escartem's discord](https://discord.gg/fzRdtVh)
 - [send mail](mailto:noreply.service.main.fr@gmail.com)
 
-# ▶️ The upload schedule is currently slowed down, if you want something to be added please contact and ask as it may not be necessarily added here
-
 ---
 
 # Table of contents
