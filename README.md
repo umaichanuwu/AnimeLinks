@@ -1,5 +1,7 @@
 # AnimeLinks (previously GenshinLinks)
 
+# This project is currently stopped for the following weeks, uploads will start again at some point in the future
+
 ---
 # ℹ️ _a new tool was released to browse & view more easily all the assets listed here, you can access it [here](https://assets.escartem.eu.org/)_
 ---
