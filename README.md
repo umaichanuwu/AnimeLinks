@@ -1,7 +1,5 @@
 # AnimeLinks (previously GenshinLinks)
 
-# This project is currently stopped for the following weeks, uploads will start again at some point in the future
-
 ---
 # ℹ️ _a new tool was released to browse & view more easily all the assets listed here, you can access it [here](https://assets.escartem.eu.org/)_
 ---
@@ -47,6 +45,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
+| **5.0** | patch ([browse aep](https://assets.escartem.eu.org/repo/687364c5500953630c5a96eedfa44c83) \| [browse](https://github.com/umaichanuwu/gi-50-tex-patch/tree/debab5a1c80c2c7621f72ed9f7c995fd76192606/Texture2D) \| [download](https://github.com/umaichanuwu/gi-50-tex-patch/archive/debab5a1c80c2c7621f72ed9f7c995fd76192606.zip)) | english patch ([browse](https://github.com/umaichanuwu/gi-50-audio-patch/tree/6bd21f9f949d7860adbbc0679013bede94db61ad/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/gi-50-audio-patch/archive/6bd21f9f949d7860adbbc0679013bede94db61ad.zip)) | :x: |
 | **4.8** | patch ([browse aep](https://assets.escartem.eu.org/repo/089666ab7f1898894ac1eaff0214f2a6) \| [browse](https://github.com/umaichanuwu/gi-4.8-tex-patch/tree/15bbe2a3a1baad0fd231c730c6b86280e6dc78ef/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.8-tex-patch/archive/15bbe2a3a1baad0fd231c730c6b86280e6dc78ef.zip)) | :x: | :x: |
 | **4.7** | patch ([browse](https://github.com/umaichanuwu/gi-4.7-tex-patch/tree/2d87dbb4c9a53a36ff571cd088f3a4f04d8b7314/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.7-tex-patch/archive/2d87dbb4c9a53a36ff571cd088f3a4f04d8b7314.zip)) | :x: | :x: |
 | **4.6** | full game ~ 20gb ([browse](https://github.com/umaichanuwu/gi-tex-4.6-full/tree/06c171c80bfe0512add8d65e32dc453be22693a9/Texture2D) \| [download](https://github.com/umaichanuwu/gi-tex-4.6-full/archive/06c171c80bfe0512add8d65e32dc453be22693a9.zip) \| [note](https://github.com/umaichanuwu/gi-tex-4.6-full/blob/06c171c80bfe0512add8d65e32dc453be22693a9/README.md)) | english patch ([browse](https://github.com/umaichanuwu/4.6-audio-patch-en/tree/f447a184544e77294426333b59840e9514967d39/English(US)) \| [download](https://github.com/umaichanuwu/4.6-audio-patch-en/archive/f447a184544e77294426333b59840e9514967d39.zip) \| [note](https://github.com/umaichanuwu/4.6-audio-patch-en/blob/f447a184544e77294426333b59840e9514967d39/README.md)) | english only 3.6 to 4.6 ([read note](https://github.com/umaichanuwu/3.5-cutscenes-english/tree/6930a1368eb70b15aa1508f444b10f2879690e5d/README.md) \| [download](https://github.com/umaichanuwu/gi-cutscenes-english-36-46/archive/cea8ce3ee90c7a6028010f39075e315a396013ab.zip)) |
@@ -73,6 +72,7 @@
 | **2.3** | :x: | :x: | :x: |
 | **2.2** | :x: | :x: | :x: |
 | **2.1** | patch ([browse](https://github.com/umaichanuwu/gi-2.1-tex-patch/tree/87c7b8687fa26ea976ebceda0ce7ec1d5efe8093/Texture2D) \| [download](https://github.com/umaichanuwu/gi-2.1-tex-patch/archive/87c7b8687fa26ea976ebceda0ce7ec1d5efe8093.zip)) | :x: | :x: |
+| **2.0** | ⏰ planned | :x: | :x: |
 | **other** | [additional content here](https://mega.nz/folder/MF92hbbT#ghPNQGd9H29NEma0bzL45g) | - | - |
 
 ---
@@ -83,6 +83,7 @@
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
+| 2.5 | ⏰ planned | - | - |
 | 2.4 | [browse on aep](https://assets.escartem.eu.org/repo/f42a722cdc384788e4eb66a8a0db7faf) \| [browse on github](https://github.com/umaichanuwu/StarRailTextures/tree/a311d4c68d428ee3b52dc3504030f247a1524738/assets) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/a311d4c68d428ee3b52dc3504030f247a1524738/README.md) | [download patch](https://s3.escartem.eu.org/browser/maps/hsr/sr24p.json) |
 | 2.3 | - | - | - |
 | 2.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/5921e106f28a7248741d8d30147f3bf86ab3b3ed/assets) \| [download (~21Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/5921e106f28a7248741d8d30147f3bf86ab3b3ed.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/5921e106f28a7248741d8d30147f3bf86ab3b3ed/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/sr22f.json) |
@@ -100,9 +101,10 @@
 
 # Zenless Zone Zero
 
-| _Version_ | _Textures_ | _Meshes_ |
-| - | - | - |
-| **1.0** | [browse](https://github.com/umaichanuwu/zzz-tex-10/tree/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/Texture2D) \| [readme](https://github.com/umaichanuwu/zzz-tex-10/blob/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/README.md) | [browse](https://github.com/umaichanuwu/zzz-mesh-10/tree/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/Mesh) \| [readme](https://github.com/umaichanuwu/zzz-mesh-10/blob/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/README.md) |
+| _Version_ | _Textures_ | _Meshes_ | _Audio_ |
+| - | - | - | - |
+| **1.1** | patch ([browse aep](https://assets.escartem.eu.org/repo/3c58abbc393ffafa70ca7265874addda) \| [download](https://github.com/umaichanuwu/zzz-11-tex-patch/archive/dda7889b67af4f6f7b41b4ca81e8839529a8c21a.zip)) | - | english & base game patch ([browse](https://github.com/umaichanuwu/zzz-11-audio-patch/tree/1d7aab8af289ae663b033e6cd3dc46877f81c429/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/zzz-11-audio-patch/archive/1d7aab8af289ae663b033e6cd3dc46877f81c429.zip)) |
+| **1.0** | [browse](https://github.com/umaichanuwu/zzz-tex-10/tree/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/Texture2D) \| [readme](https://github.com/umaichanuwu/zzz-tex-10/blob/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/README.md) | [browse](https://github.com/umaichanuwu/zzz-mesh-10/tree/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/Mesh) \| [readme](https://github.com/umaichanuwu/zzz-mesh-10/blob/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/README.md) | - |
 
 ---
 
@@ -110,6 +112,7 @@
 
 | _Version_ | _Links_ |
 | --- | --- |
+| 1.8 | ⏰ planned |
 | 1.4 | [browse](https://github.com/Escartem/Reverse1999Dump/tree/cb9a2aa7473f3259bc3f5a2ca5a0b5163a836b5b) | [download](https://github.com/Escartem/Reverse1999Dump/archive/cb9a2aa7473f3259bc3f5a2ca5a0b5163a836b5b.zip) |
 | 1.2 | [browse](https://github.com/Escartem/Reverse1999Dump/tree/40b8c560e094cccc68fc9035c151ba0ac07e0c27) | [download](https://github.com/Escartem/Reverse1999Dump/archive/40b8c560e094cccc68fc9035c151ba0ac07e0c27.zip) |
 | 1.0 |  [browse](https://github.com/Escartem/Reverse1999Dump/tree/8339b91f10492bfc67f495d66fd79ae594d219d4) | [download](https://github.com/Escartem/Reverse1999Dump/archive/8339b91f10492bfc67f495d66fd79ae594d219d4.zip) |
@@ -118,4 +121,7 @@
 
 # Wuthering Waves
 
-* [1.0 textures](https://github.com/Escartem/WutheringWavesTextures)
+| _Version_ | _Textures_ |
+| --- | --- |
+| 1.2 | ⏰ planned |
+| 1.0 | [link](https://github.com/Escartem/WutheringWavesTextures) |
