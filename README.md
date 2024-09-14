@@ -66,13 +66,20 @@
 | **3.0** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/f72cd86d67aaafe76c3bd587cb939cb09c540000/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/f72cd86d67aaafe76c3bd587cb939cb09c540000.zip)) | :x: | :x: |
 | **2.8** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/d277f245b83e4365c842acd94df2528598fb8673/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/d277f245b83e4365c842acd94df2528598fb8673.zip)) | :x: | :x: |
 | **2.7** | full game ([browse](https://github.com/TGSRedStone/GenshinTextures/tree/e7b09142cf58c2a5fd6ed3d3c8ebbcc86e6e2a61/Texture2D) \| [download](https://github.com/TGSRedStone/GenshinTextures/archive/e7b09142cf58c2a5fd6ed3d3c8ebbcc86e6e2a61.zip)) | :x: | :x: |
-| **2.6** | :x: | :x: | :x: |
+| **2.6** | ⏰ planned | :x: | :x: |
 | **2.5** | patch ([browse](https://github.com/umaichanuwu/gi-2.5-tex-patch/tree/a0be13ce3205b0131f7720d150d181fef76515a4/Texture2D) \| [download](https://github.com/umaichanuwu/gi-2.5-tex-patch/archive/81b8fc87a6308d65a356ecfb971cdae2aab67912.zip)) | :x: | :x: |
 | **2.4** | patch ([browse](https://github.com/umaichanuwu/gi-2.4-tex-patch/tree/a6c2ee39c1b2694145a9af02b9b69b844276eb54/Texture2D) \| [download](https://github.com/umaichanuwu/gi-2.4-tex-patch/archive/a6c2ee39c1b2694145a9af02b9b69b844276eb54.zip)) | :x: | :x: |
-| **2.3** | :x: | :x: | :x: |
-| **2.2** | :x: | :x: | :x: |
+| **2.3** | ⏰ planned | :x: | :x: |
+| **2.2** | ⏰ planned | :x: | :x: |
 | **2.1** | patch ([browse](https://github.com/umaichanuwu/gi-2.1-tex-patch/tree/87c7b8687fa26ea976ebceda0ce7ec1d5efe8093/Texture2D) \| [download](https://github.com/umaichanuwu/gi-2.1-tex-patch/archive/87c7b8687fa26ea976ebceda0ce7ec1d5efe8093.zip)) | :x: | :x: |
-| **2.0** | ⏰ planned | :x: | :x: |
+| **2.0** | [patch](https://assets.escartem.eu.org/repo/052714fc4a2cbb7d8597918fc79249be) | :x: | :x: |
+| **1.6** | [patch](https://assets.escartem.eu.org/repo/5c454c723e715e25c1ee1a79e1606f6f) | :x: | :x: |
+| **1.5** | [patch](https://assets.escartem.eu.org/repo/d6b634038ad073147d67d12d43d6ab37) | :x: | :x: |
+| **1.4** | [patch](https://assets.escartem.eu.org/repo/a2bc682edb1c89b819286bd63f24c79d) | :x: | :x: |
+| **1.3** | [patch](https://assets.escartem.eu.org/repo/4ce10266278c8765e72abfbe9f00b6f5) | :x: | :x: |
+| **1.2** | [patch](https://assets.escartem.eu.org/repo/bd758be19e6451bc0e3bf6c05d02a7c9) | :x: | :x: |
+| **1.1** | [patch](https://assets.escartem.eu.org/repo/01510098d34c1834ea4636fa7155d5ed) | :x: | :x: |
+| **1.0** | [all](https://assets.escartem.eu.org/repo/6ae38b6bbb59aff57120565b5b4f4ece) | :x: | :x: |
 | **other** | [additional content here](https://mega.nz/folder/MF92hbbT#ghPNQGd9H29NEma0bzL45g) | - | - |
 
 ---
