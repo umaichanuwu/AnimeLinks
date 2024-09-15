@@ -90,7 +90,7 @@
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
-| 2.5 | ⏰ planned | - | - |
+| 2.5 | [browse on aep](https://assets.escartem.eu.org/repo/1e0185e80877826b375c73114173a962) | - | [download patch](https://s3.escartem.eu.org/browser/maps/hsr/sr25p.json) |
 | 2.4 | [browse on aep](https://assets.escartem.eu.org/repo/f42a722cdc384788e4eb66a8a0db7faf) \| [browse on github](https://github.com/umaichanuwu/StarRailTextures/tree/a311d4c68d428ee3b52dc3504030f247a1524738/assets) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/a311d4c68d428ee3b52dc3504030f247a1524738/README.md) | [download patch](https://s3.escartem.eu.org/browser/maps/hsr/sr24p.json) |
 | 2.3 | - | - | - |
 | 2.2 | [textures](https://github.com/umaichanuwu/StarRailTextures/tree/5921e106f28a7248741d8d30147f3bf86ab3b3ed/assets) \| [download (~21Gb)](https://github.com/umaichanuwu/StarRailTextures/archive/5921e106f28a7248741d8d30147f3bf86ab3b3ed.zip) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/5921e106f28a7248741d8d30147f3bf86ab3b3ed/README.md) | [download](https://s3.escartem.eu.org/browser/maps/hsr/sr22f.json) |
