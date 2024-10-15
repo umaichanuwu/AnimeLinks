@@ -44,6 +44,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
+| **5.1** | ⏰ planned | :x: | :x: |
 | **5.0** | patch ([browse aep](https://assets.escartem.eu.org/repo/687364c5500953630c5a96eedfa44c83) \| [browse](https://github.com/umaichanuwu/gi-50-tex-patch/tree/debab5a1c80c2c7621f72ed9f7c995fd76192606/Texture2D) \| [download](https://github.com/umaichanuwu/gi-50-tex-patch/archive/debab5a1c80c2c7621f72ed9f7c995fd76192606.zip)) | english patch ([browse](https://github.com/umaichanuwu/gi-50-audio-patch/tree/6bd21f9f949d7860adbbc0679013bede94db61ad/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/gi-50-audio-patch/archive/6bd21f9f949d7860adbbc0679013bede94db61ad.zip)) | :x: |
 | **4.8** | patch ([browse aep](https://assets.escartem.eu.org/repo/089666ab7f1898894ac1eaff0214f2a6) \| [browse](https://github.com/umaichanuwu/gi-4.8-tex-patch/tree/15bbe2a3a1baad0fd231c730c6b86280e6dc78ef/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.8-tex-patch/archive/15bbe2a3a1baad0fd231c730c6b86280e6dc78ef.zip)) | :x: | :x: |
 | **4.7** | patch ([browse](https://github.com/umaichanuwu/gi-4.7-tex-patch/tree/2d87dbb4c9a53a36ff571cd088f3a4f04d8b7314/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.7-tex-patch/archive/2d87dbb4c9a53a36ff571cd088f3a4f04d8b7314.zip)) | :x: | :x: |
@@ -53,7 +54,7 @@
 | **4.3** | patch ([browse](https://github.com/umaichanuwu/gi-4.3-textures-patch/tree/aa91fa82859dbe637bd4b1217d47818357fc0816/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.3-textures-patch/archive/aa91fa82859dbe637bd4b1217d47818357fc0816.zip)) | :x: | :x: |
 | **4.2** | patch ([browse](https://github.com/umaichanuwu/gi-4.2-textures-patch/tree/cd6c9088eb4bec52714b9b1252ab6d1cc8fbf6e2/Texture2D) \| [download](https://github.com/umaichanuwu/gi-4.2-textures-patch/archive/cd6c9088eb4bec52714b9b1252ab6d1cc8fbf6e2.zip)) | :x: | :x: |
 | **4.1** | full game ([browse](https://github.com/umaichanuwu/Genshin4.1TexturesFull/tree/79084578f742757df7728f6f5cc2d1b571b29194/Texture2D) \| [download](https://github.com/umaichanuwu/Genshin4.1TexturesFull/archive/79084578f742757df7728f6f5cc2d1b571b29194.zip)) | :x: | :x: |
-| **4.0** | :x: | :x: | :x: |
+| **4.0** | [✨ patch](https://assets.escartem.eu.org/repo/c4ea8b36bc46e3026fb5b6097cbaa00d) | :x: | :x: |
 | **3.8** | [✨ patch](https://assets.escartem.eu.org/repo/115375b66de744cff222584b5d48652e) | :x: | :x: |
 | **3.7** | [✨ patch](https://assets.escartem.eu.org/repo/c8669967eeecb63d759912adccf820d3) **or** old patch with 3.6 ([browse](https://github.com/umaichanuwu/3.6-3.7textures/tree/b056b767e3f01fce99d8c60b165517cfb616b534/Texture2D) \| [download](https://github.com/umaichanuwu/3.6-3.7textures/archive/b056b767e3f01fce99d8c60b165517cfb616b534.zip) \| [diff](https://github.com/umaichanuwu/3.6-3.7textures/compare/3.6...3.7)) | :x: | :x: |
 | **3.6** | [✨ patch](https://assets.escartem.eu.org/repo/acc91355f8bd1e3656aba0172fc842d1) **or** old patch ([browse](https://github.com/umaichanuwu/3.6-3.7textures/tree/81b8fc87a6308d65a356ecfb971cdae2aab67912/Texture2D) \| [download](https://github.com/umaichanuwu/3.6-3.7textures/archive/81b8fc87a6308d65a356ecfb971cdae2aab67912.zip)) | :x: | :x: |
