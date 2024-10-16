@@ -45,7 +45,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
-| **5.1** | ⏰ planned | :x: | :x: |
+| **5.1** | [✨ patch](https://assets.escartem.eu.org/repo/43f984311e64db65fba62b46a61ab8b0) | :x: | :x: |
 | **5.0** | [✨ patch](https://assets.escartem.eu.org/repo/687364c5500953630c5a96eedfa44c83) | english patch ([browse](https://github.com/umaichanuwu/gi-50-audio-patch/tree/6bd21f9f949d7860adbbc0679013bede94db61ad/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/gi-50-audio-patch/archive/6bd21f9f949d7860adbbc0679013bede94db61ad.zip)) | :x: |
 | **4.8** | [✨ patch](https://assets.escartem.eu.org/repo/e7949bf047fa75ee6fb27e9238c0dbdc) | :x: | :x: |
 | **4.7** | [✨ patch](https://assets.escartem.eu.org/repo/c436c00f95208ed3cab2789fa1464a21) | :x: | :x: |
