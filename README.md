@@ -19,6 +19,7 @@
 ### [Zenless Zone Zero](https://github.com/umaichanuwu/AnimeLinks/#zenless-zone-zero-1)
 ### [Reverse 1999](https://github.com/umaichanuwu/AnimeLinks/#reverse-1999-1)
 ### [Wuthering Waves](https://github.com/umaichanuwu/AnimeLinks/#wuthering-waves-1)
+### [Punishing Gray Raven](https://github.com/umaichanuwu/AnimeLinks/#punishing-gray-raven-1)
 
 ---
 
@@ -133,3 +134,9 @@
 | --- | --- |
 | 1.2 | ⏰ planned |
 | 1.0 | [link](https://github.com/Escartem/WutheringWavesTextures) |
+
+# Punishing Gray Raven
+
+| _Version_ | _Textures_ |
+| --- | --- |
+| 2.8 | [browse](https://assets.escartem.moe/repo/e1f7a8b5d335f8f467679672cab8875d) |
