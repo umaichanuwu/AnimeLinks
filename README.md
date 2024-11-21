@@ -45,6 +45,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
+| **5.2** | ⏰ planned | - | - |
 | **5.1** | [✨ patch](https://assets.escartem.moe/repo/43f984311e64db65fba62b46a61ab8b0) | - | - |
 | **5.0** | [✨ patch](https://assets.escartem.moe/repo/687364c5500953630c5a96eedfa44c83) | english patch ([browse](https://github.com/umaichanuwu/gi-50-audio-patch/tree/6bd21f9f949d7860adbbc0679013bede94db61ad/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/gi-50-audio-patch/archive/6bd21f9f949d7860adbbc0679013bede94db61ad.zip)) | - |
 | **4.8** | [✨ patch](https://assets.escartem.moe/repo/e7949bf047fa75ee6fb27e9238c0dbdc) | - | - |
@@ -111,6 +112,8 @@
 
 | _Version_ | _Textures_ | _Meshes_ | _Audio_ |
 | - | - | - | - |
+| **1.3** | [patch](https://assets.escartem.moe/repo/70153829da25831f995370abe0a1174d) | - | - |
+| **1.2** | [patch](https://assets.escartem.moe/repo/87b89acdebf5465de66d9977b11e818d) | - | - |
 | **1.1** | patch ([browse](https://assets.escartem.moe/repo/3c58abbc393ffafa70ca7265874addda) \| [download](https://github.com/umaichanuwu/zzz-11-tex-patch/archive/dda7889b67af4f6f7b41b4ca81e8839529a8c21a.zip)) | - | english & base game patch ([browse](https://github.com/umaichanuwu/zzz-11-audio-patch/tree/1d7aab8af289ae663b033e6cd3dc46877f81c429/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/zzz-11-audio-patch/archive/1d7aab8af289ae663b033e6cd3dc46877f81c429.zip)) |
 | **1.0** | [browse](https://assets.escartem.moe/repo/ce96a1ef04b1d882e24ae17464cccb2f) \| [readme](https://github.com/umaichanuwu/zzz-tex-10/blob/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/README.md) | [browse](https://github.com/umaichanuwu/zzz-mesh-10/tree/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/Mesh) \| [readme](https://github.com/umaichanuwu/zzz-mesh-10/blob/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/README.md) | - |
 
