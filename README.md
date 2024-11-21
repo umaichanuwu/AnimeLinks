@@ -134,7 +134,7 @@
 
 | _Version_ | _Textures_ |
 | --- | --- |
-| 1.2 | ⏰ planned |
+| 1.2 | [patch](https://assets.escartem.moe/repo/f10da659d03a71105b5b46d0d8886fd5) |
 | 1.0 | [link](https://assets.escartem.moe/repo/600dcd5c62a09a232fed3e6d4d2d586f) |
 
 # Punishing Gray Raven
