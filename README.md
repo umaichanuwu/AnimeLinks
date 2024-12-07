@@ -45,7 +45,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
-| **5.2** | ⏰ planned | - | - |
+| **5.2** | [✨ patch](https://assets.escartem.moe/repo/b690bcde00e121a78c20e0448a8b2c64) | - | - |
 | **5.1** | [✨ patch](https://assets.escartem.moe/repo/43f984311e64db65fba62b46a61ab8b0) | - | - |
 | **5.0** | [✨ patch](https://assets.escartem.moe/repo/687364c5500953630c5a96eedfa44c83) | english patch ([browse](https://github.com/umaichanuwu/gi-50-audio-patch/tree/6bd21f9f949d7860adbbc0679013bede94db61ad/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/gi-50-audio-patch/archive/6bd21f9f949d7860adbbc0679013bede94db61ad.zip)) | - |
 | **4.8** | [✨ patch](https://assets.escartem.moe/repo/e7949bf047fa75ee6fb27e9238c0dbdc) | - | - |
@@ -92,6 +92,8 @@
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
+| 2.7 | [browse](https://assets.escartem.moe/repo/92a6057de1e27f1565be68ad8d09c568) | - | - | - |
+| 2.6 | [browse](https://assets.escartem.moe/repo/bbb5df6ff8bf42917b2451dc390d00c4) | - | - | - |
 | 2.5 | [browse](https://assets.escartem.moe/repo/1e0185e80877826b375c73114173a962) | - | [download patch](https://s3.escartem.moe/browser/maps/hsr/sr25p.json) |
 | 2.4 | [browse](https://assets.escartem.moe/repo/f42a722cdc384788e4eb66a8a0db7faf) | [read](https://github.com/umaichanuwu/StarRailTextures/blob/a311d4c68d428ee3b52dc3504030f247a1524738/README.md) | [download patch](https://s3.escartem.moe/browser/maps/hsr/sr24p.json) |
 | 2.3 | - | - | - |
