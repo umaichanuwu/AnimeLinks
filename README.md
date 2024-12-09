@@ -21,6 +21,7 @@
 ##### [Reverse 1999](https://github.com/umaichanuwu/AnimeLinks/#reverse-1999-1)
 ##### [Wuthering Waves](https://github.com/umaichanuwu/AnimeLinks/#wuthering-waves-1)
 ##### [Punishing Gray Raven](https://github.com/umaichanuwu/AnimeLinks/#punishing-gray-raven-1)
+##### [Strinova](https://github.com/umaichanuwu/AnimeLinks/#strinova-1)
 
 ---
 
@@ -144,3 +145,10 @@
 | _Version_ | _Textures_ |
 | --- | --- |
 | 2.8 | [browse](https://assets.escartem.moe/repo/e1f7a8b5d335f8f467679672cab8875d) |
+
+# Strinova
+
+| _Version_ | _Textures_ |
+| --- | --- |
+| 20241206 | [browse](https://assets.escartem.moe/repo/1179b4d0570325c70c508a9b002c7eb5) |
+
