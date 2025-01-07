@@ -115,10 +115,11 @@
 
 | _Version_ | _Textures_ | _Meshes_ | _Audio_ |
 | - | - | - | - |
+| **1.4** | [patch](https://assets.escartem.moe/repo/5757084b0a104440e400d8b1277fe144) | - | - |
 | **1.3** | [patch](https://assets.escartem.moe/repo/70153829da25831f995370abe0a1174d) | - | - |
 | **1.2** | [patch](https://assets.escartem.moe/repo/87b89acdebf5465de66d9977b11e818d) | - | - |
 | **1.1** | patch ([browse](https://assets.escartem.moe/repo/3c58abbc393ffafa70ca7265874addda) \| [download](https://github.com/umaichanuwu/zzz-11-tex-patch/archive/dda7889b67af4f6f7b41b4ca81e8839529a8c21a.zip)) | - | english & base game patch ([browse](https://github.com/umaichanuwu/zzz-11-audio-patch/tree/1d7aab8af289ae663b033e6cd3dc46877f81c429/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/zzz-11-audio-patch/archive/1d7aab8af289ae663b033e6cd3dc46877f81c429.zip)) |
-| **1.0** | [browse](https://assets.escartem.moe/repo/ce96a1ef04b1d882e24ae17464cccb2f) \| [readme](https://github.com/umaichanuwu/zzz-tex-10/blob/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/README.md) | [browse](https://github.com/umaichanuwu/zzz-mesh-10/tree/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/Mesh) \| [readme](https://github.com/umaichanuwu/zzz-mesh-10/blob/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/README.md) | - |
+| **1.0** | [browse](https://assets.escartem.moe/repo/ce96a1ef04b1d882e24ae17464cccb2f) \| [readme](https://github.com/umaichanuwu/zzz-tex-10/blob/32d49453df982fe2ce9fb33351dfc4eb699c1ac0/README.md) | [browse](https://github.com/umaichanuwu/zzz-mesh-10/tree/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/Mesh) \| [readme](https://github.com/umaichanuwu/zzz-mesh-10/blob/bad6d49beed6fdc97f239e82ee989d3c6ff319b4/README.md) | all game - [browse](https://github.com/umaichanuwu/zzz-audio-10-full/tree/26ea782d7856aad688baff9e240e19b6e6647999/AudioAssets) |
 
 ---
 
