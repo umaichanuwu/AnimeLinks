@@ -9,6 +9,8 @@
 - [discord](https://discord.gg/fzRdtVh)
 - [mail](mailto:noreply.service.main.fr@gmail.com)
 
+## :x: Uploads are temporarily paused ! Sorry for the inconvenience
+
 ---
 
 # Table of contents
@@ -46,6 +48,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
+| **5.3** | [✨ patch](https://assets.escartem.moe/repo/569d799c84cd27059625cfe6c45449e7) | - | - |
 | **5.2** | [✨ patch](https://assets.escartem.moe/repo/b690bcde00e121a78c20e0448a8b2c64) | - | - |
 | **5.1** | [✨ patch](https://assets.escartem.moe/repo/43f984311e64db65fba62b46a61ab8b0) | - | - |
 | **5.0** | [✨ patch](https://assets.escartem.moe/repo/687364c5500953630c5a96eedfa44c83) | english patch ([browse](https://github.com/umaichanuwu/gi-50-audio-patch/tree/6bd21f9f949d7860adbbc0679013bede94db61ad/GeneratedSoundBanks) \| [download](https://github.com/umaichanuwu/gi-50-audio-patch/archive/6bd21f9f949d7860adbbc0679013bede94db61ad.zip)) | - |
