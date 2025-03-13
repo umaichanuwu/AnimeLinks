@@ -9,8 +9,6 @@
 - [discord](https://discord.gg/fzRdtVh)
 - [mail](mailto:noreply.service.main.fr@gmail.com)
 
-## :x: Uploads are temporarily paused ! Sorry for the inconvenience
-
 ---
 
 # Table of contents
@@ -48,6 +46,7 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
+| **5.4** | [✨ patch](https://assets.escartem.moe/repo/a097b56e58eafd8f3fd7989522f9bc68) | - | - |
 | **5.3** | [✨ patch](https://assets.escartem.moe/repo/569d799c84cd27059625cfe6c45449e7) | - | - |
 | **5.2** | [✨ patch](https://assets.escartem.moe/repo/b690bcde00e121a78c20e0448a8b2c64) | - | - |
 | **5.1** | [✨ patch](https://assets.escartem.moe/repo/43f984311e64db65fba62b46a61ab8b0) | - | - |
@@ -92,6 +91,8 @@
 
 # Star Rail 
 
+## ⚠️ star rail changed update methods, it's still possible to extract content but it takes more time, so instead of bothering a new tool will be made to handle this and everything will be updated after
+
 > The asset map is a .json file in the form {"filename": "filepath"}, it's objective is to help searching files in the repository without having to download everything
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
@@ -118,6 +119,8 @@
 
 | _Version_ | _Textures_ | _Meshes_ | _Audio_ |
 | - | - | - | - |
+| **1.6** | soon | - | - |
+| **1.5** | [patch](https://assets.escartem.moe/repo/c9d7d03298256f90433431abcffb20c2) | - | [patch](https://github.com/umaichanuwu/zzz-16-audio-patch) |
 | **1.4** | [patch](https://assets.escartem.moe/repo/5757084b0a104440e400d8b1277fe144) | - | - |
 | **1.3** | [patch](https://assets.escartem.moe/repo/70153829da25831f995370abe0a1174d) | - | - |
 | **1.2** | [patch](https://assets.escartem.moe/repo/87b89acdebf5465de66d9977b11e818d) | - | - |
