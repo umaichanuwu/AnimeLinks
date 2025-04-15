@@ -34,6 +34,7 @@
 
 | Repo | Status |
 | --- | --- |
+| [AnimeStudio](https://github.com/Escartem/AnimeStudio) | tool to browse and extract assets from unity games, that's the tool used to make the textures packages here (～￣▽￣)～ |
 | [AnimeWwise](https://github.com/Escartem/AnimeWwise) | tool to extract audio yourself, still updated |
 | [GenshinAudio](https://github.com/Escartem/GenshinAudio) | still available but not updated anymore, you can still make requests here |
 | [GenshinTextures](https://github.com/Escartem/GenshinTextures) | :x: DMCA takedown |
