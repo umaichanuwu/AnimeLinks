@@ -9,6 +9,8 @@
 - [discord](https://discord.gg/fzRdtVh)
 - [mail](mailto:noreply.service.main.fr@gmail.com)
 
+# :x: Updates paused again as mihoyo keeps pushing annoying changes to game updates, organisation etc. that keep breaking everyone's workflows, focusing on fixes for now
+
 ---
 
 # Table of contents
