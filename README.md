@@ -150,15 +150,27 @@
 | 1.2 | [patch](https://assets.escartem.moe/repo/f10da659d03a71105b5b46d0d8886fd5) |
 | 1.0 | [link](https://assets.escartem.moe/repo/600dcd5c62a09a232fed3e6d4d2d586f) |
 
+---
+
 # Punishing Gray Raven
 
 | _Version_ | _Textures_ |
 | --- | --- |
 | 2.8 | [browse](https://assets.escartem.moe/repo/e1f7a8b5d335f8f467679672cab8875d) |
 
+---
+
 # Strinova
 
 | _Version_ | _Textures_ |
 | --- | --- |
 | 20241206 | [browse](https://assets.escartem.moe/repo/1179b4d0570325c70c508a9b002c7eb5) |
+
+---
+
+# Cat Fantasy
+
+| _Version_ | _Textures_ |
+| --- | --- |
+| 1.0.12.1 | [browse](https://assets.escartem.moe/repo/bed0ceb670e22def7a3728818ce42d6f) |
 
