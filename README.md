@@ -34,12 +34,21 @@
 
 ---
 
+# Tools used for this project
+
+| Name | Description |
+| - | - |
+| [AnimeStudio](https://github.com/Escartem/AnimeStudio) | browse and extract assets from unity games, that's the main tool used to make the textures packages here (～￣▽￣)～ |
+| [AnimeWwise](https://github.com/Escartem/AnimeWwise) | extract audio |
+| [HoyoUpdates](https://hoyo-updates.vercel.app) | get updates packages |
+| [SophonDownloader](https://github.com/Escartem/SophonDownloader) | download update packages using the new method |
+
+---
+
 # Original repos
 
 | Repo | Status |
 | --- | --- |
-| [AnimeStudio](https://github.com/Escartem/AnimeStudio) | tool to browse and extract assets from unity games, that's the tool used to make the textures packages here (～￣▽￣)～ |
-| [AnimeWwise](https://github.com/Escartem/AnimeWwise) | tool to extract audio yourself, still updated |
 | [GenshinAudio](https://github.com/Escartem/GenshinAudio) | still available but not updated anymore, you can still make requests here |
 | [GenshinTextures](https://github.com/Escartem/GenshinTextures) | :x: DMCA takedown |
 | [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes) | :x: DMCA takedown |
