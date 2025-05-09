@@ -16,7 +16,7 @@
 # Table of contents
 
 ##### [Notes](https://github.com/umaichanuwu/AnimeLinks/#notes-1)
-##### [Tools used](https://github.com/umaichanuwu/AnimeLinks/edit/main/README.md#tools-used-for-this-project)
+##### [Tools used](https://github.com/umaichanuwu/AnimeLinks/#tools-used-for-this-project-1)
 ##### [Original repos](https://github.com/umaichanuwu/AnimeLinks/#original-repos-1)
 ##### [Genshin](https://github.com/umaichanuwu/AnimeLinks/#genshin-1)
 ##### [Star Rail](https://github.com/umaichanuwu/AnimeLinks/#star-rail-1)
