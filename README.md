@@ -24,6 +24,8 @@
 ##### [Wuthering Waves](https://github.com/umaichanuwu/AnimeLinks/#wuthering-waves-1)
 ##### [Punishing Gray Raven](https://github.com/umaichanuwu/AnimeLinks/#punishing-gray-raven-1)
 ##### [Strinova](https://github.com/umaichanuwu/AnimeLinks/#strinova-1)
+##### [Cat Fantasy](https://github.com/umaichanuwu/AnimeLinks/#cat-fantasy-1)
+
 
 ---
 
