@@ -9,8 +9,6 @@
 - [discord](https://discord.gg/fzRdtVh)
 - [mail](mailto:noreply.service.main.fr@gmail.com)
 
-# :x: Updates paused again as mihoyo keeps pushing annoying changes to game updates, organisation etc. that keep breaking everyone's workflows, focusing on fixes for now
-
 ---
 
 # Table of contents
@@ -61,6 +59,9 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
+| **5.7** | soon | - | - |
+| **5.6** | soon | - | - |
+| **5.5** | soon | - | - |
 | **5.4** | [✨ patch](https://assets.escartem.moe/repo/a097b56e58eafd8f3fd7989522f9bc68) | - | - |
 | **5.3** | [✨ patch](https://assets.escartem.moe/repo/569d799c84cd27059625cfe6c45449e7) | - | - |
 | **5.2** | [✨ patch](https://assets.escartem.moe/repo/b690bcde00e121a78c20e0448a8b2c64) | - | - |
@@ -106,12 +107,15 @@
 
 # Star Rail 
 
-## ⚠️ star rail changed update methods, it's still possible to extract content but it takes more time, so instead of bothering a new tool will be made to handle this and everything will be updated after
-
 > The asset map is a .json file in the form {"filename": "filepath"}, it's objective is to help searching files in the repository without having to download everything
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
+| 3.4 | [all textures](https://assets.escartem.moe/repo/40952c6182064c3e670e1b1531bbfcef) \| patch textures (soon) | - | - | - |
+| 3.3 | [all textures](https://assets.escartem.moe/repo/435b06455b2f2353dd51f912df062b69) \| [patch textures](https://assets.escartem.moe/repo/e8bad039580e81426dbdf9d722819a4f) | - | - | - |
+| 3.2 | [all textures](https://assets.escartem.moe/repo/3086aeae3b5de586e246c6eef62fbf25) \| [patch textures](https://assets.escartem.moe/repo/ec6a4c9d48250be087a1c54946ce9d09) | - | - | - |
+| 3.1 | [all textures](https://assets.escartem.moe/repo/91a629dfe2a9fd47dba977eb7536ed82) \| [patch textures](https://assets.escartem.moe/repo/6265683e57945a3c9b52a7bae6db6877) | - | - | - |
+| 3.0 | [all textures](https://assets.escartem.moe/repo/7d788151b2d52dcf5900a4f32fc7613b) \| [patch textures](https://assets.escartem.moe/repo/023cdd0f7913e3d1495b6857c33964e3) | - | - | - |
 | 2.7 | [browse](https://assets.escartem.moe/repo/92a6057de1e27f1565be68ad8d09c568) | - | - | - |
 | 2.6 | [browse](https://assets.escartem.moe/repo/bbb5df6ff8bf42917b2451dc390d00c4) | - | - | - |
 | 2.5 | [browse](https://assets.escartem.moe/repo/1e0185e80877826b375c73114173a962) | - | [download patch](https://s3.escartem.moe/browser/maps/hsr/sr25p.json) |
@@ -134,6 +138,7 @@
 
 | _Version_ | _Textures_ | _Meshes_ | _Audio_ |
 | - | - | - | - |
+| **2.0** | soon | - | - |
 | **1.7** | [patch](https://assets.escartem.moe/repo/e135488300e132818561a5355dff3627) | - | - |
 | **1.6** | [patch](https://assets.escartem.moe/repo/45ee3fab8e2e8d0714d46523b17db9f4) | - | [patch](https://github.com/umaichanuwu/zzz-16-audio-patch) |
 | **1.5** | [patch](https://assets.escartem.moe/repo/c9d7d03298256f90433431abcffb20c2) | - | - |
