@@ -111,7 +111,7 @@
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
-| 3.4 | [all textures](https://assets.escartem.moe/repo/40952c6182064c3e670e1b1531bbfcef) \| patch textures (soon) | - | - | - |
+| 3.4 | [all textures](https://assets.escartem.moe/repo/40952c6182064c3e670e1b1531bbfcef) \| [patch textures](https://assets.escartem.moe/repo/7d1dcd54ea14c9a57f22c293a132c920) | - | - | - |
 | 3.3 | [all textures](https://assets.escartem.moe/repo/435b06455b2f2353dd51f912df062b69) \| [patch textures](https://assets.escartem.moe/repo/e8bad039580e81426dbdf9d722819a4f) | - | - | - |
 | 3.2 | [all textures](https://assets.escartem.moe/repo/3086aeae3b5de586e246c6eef62fbf25) \| [patch textures](https://assets.escartem.moe/repo/ec6a4c9d48250be087a1c54946ce9d09) | - | - | - |
 | 3.1 | [all textures](https://assets.escartem.moe/repo/91a629dfe2a9fd47dba977eb7536ed82) \| [patch textures](https://assets.escartem.moe/repo/6265683e57945a3c9b52a7bae6db6877) | - | - | - |
