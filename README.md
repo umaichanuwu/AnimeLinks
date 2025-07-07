@@ -138,7 +138,7 @@
 
 | _Version_ | _Textures_ | _Meshes_ | _Audio_ |
 | - | - | - | - |
-| **2.0** | soon | - | - |
+| **2.0** | [patch](https://assets.escartem.moe/repo/8cd4e6aa6374a7936172d28dded85707) | - | - |
 | **1.7** | [patch](https://assets.escartem.moe/repo/e135488300e132818561a5355dff3627) | - | - |
 | **1.6** | [patch](https://assets.escartem.moe/repo/45ee3fab8e2e8d0714d46523b17db9f4) | - | [patch](https://github.com/umaichanuwu/zzz-16-audio-patch) |
 | **1.5** | [patch](https://assets.escartem.moe/repo/c9d7d03298256f90433431abcffb20c2) | - | - |
