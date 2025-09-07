@@ -59,9 +59,10 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
-| **5.7** | soon | - | - |
-| **5.6** | soon | - | - |
-| **5.5** | soon | - | - |
+| **5.8** | [✨ patch](https://assets.escartem.moe/repo/cccf1317c4b9e312ac58b4ce612485cb) | [✨ full](https://assets.escartem.moe/repo/0x41558792ea434f7ab03927bc64468c23) | - | - |
+| **5.7** | [✨ patch](https://assets.escartem.moe/repo/91482cd90a7268ccb12bacae64489d7f) | [✨ full](https://assets.escartem.moe/repo/0x525351a19f3ef2f8149d82df04df42bb) | - | - |
+| **5.6** | [✨ patch](https://assets.escartem.moe/repo/9f9917f5c550dd07102f3b7ec1578e43) | [✨ full](https://assets.escartem.moe/repo/0x43be6885fedd5412c04533fa75a2c734) | - | - |
+| **5.5** | [✨ patch](https://assets.escartem.moe/repo/2872f60f498518489e265a808f87dcd5) | [✨ full](https://assets.escartem.moe/repo/0x09ba84aa77f77987f7ce7d81609414bd) | - | - |
 | **5.4** | [✨ patch](https://assets.escartem.moe/repo/a097b56e58eafd8f3fd7989522f9bc68) | - | - |
 | **5.3** | [✨ patch](https://assets.escartem.moe/repo/569d799c84cd27059625cfe6c45449e7) | - | - |
 | **5.2** | [✨ patch](https://assets.escartem.moe/repo/b690bcde00e121a78c20e0448a8b2c64) | - | - |
@@ -111,6 +112,7 @@
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
+| 3.5 | [all textures](https://assets.escartem.moe/repo/9d91b0ea7cb277de6ea198fc3fe295e5) \| [patch textures](https://assets.escartem.moe/repo/a12a42c7fbadac70afa0041d1b5fcf13) | - | - | - |
 | 3.4 | [all textures](https://assets.escartem.moe/repo/40952c6182064c3e670e1b1531bbfcef) \| [patch textures](https://assets.escartem.moe/repo/7d1dcd54ea14c9a57f22c293a132c920) | - | - | - |
 | 3.3 | [all textures](https://assets.escartem.moe/repo/435b06455b2f2353dd51f912df062b69) \| [patch textures](https://assets.escartem.moe/repo/e8bad039580e81426dbdf9d722819a4f) | - | - | - |
 | 3.2 | [all textures](https://assets.escartem.moe/repo/3086aeae3b5de586e246c6eef62fbf25) \| [patch textures](https://assets.escartem.moe/repo/ec6a4c9d48250be087a1c54946ce9d09) | - | - | - |
@@ -138,6 +140,8 @@
 
 | _Version_ | _Textures_ | _Meshes_ | _Audio_ |
 | - | - | - | - |
+| **2.2** | [patch](https://assets.escartem.moe/repo/283d7289455e4c42dff83ce552f63244) | - | - |
+| **2.1** | [patch](https://assets.escartem.moe/repo/2937dbb959f6a107d6f99fc0472d00a7) | - | - |
 | **2.0** | [patch](https://assets.escartem.moe/repo/8cd4e6aa6374a7936172d28dded85707) | - | - |
 | **1.7** | [patch](https://assets.escartem.moe/repo/e135488300e132818561a5355dff3627) | - | - |
 | **1.6** | [patch](https://assets.escartem.moe/repo/45ee3fab8e2e8d0714d46523b17db9f4) | - | [patch](https://github.com/umaichanuwu/zzz-16-audio-patch) |
