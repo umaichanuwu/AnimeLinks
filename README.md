@@ -59,10 +59,10 @@
 
 | _Version_ | _Textures_ | _Audio_ | _Cutscenes_ |
 | --- | --- | --- | --- |
-| **5.8** | [✨ patch](https://assets.escartem.moe/repo/cccf1317c4b9e312ac58b4ce612485cb) | [✨ full](https://assets.escartem.moe/repo/0x41558792ea434f7ab03927bc64468c23) | - | - |
-| **5.7** | [✨ patch](https://assets.escartem.moe/repo/91482cd90a7268ccb12bacae64489d7f) | [✨ full](https://assets.escartem.moe/repo/0x525351a19f3ef2f8149d82df04df42bb) | - | - |
-| **5.6** | [✨ patch](https://assets.escartem.moe/repo/9f9917f5c550dd07102f3b7ec1578e43) | [✨ full](https://assets.escartem.moe/repo/0x43be6885fedd5412c04533fa75a2c734) | - | - |
-| **5.5** | [✨ patch](https://assets.escartem.moe/repo/2872f60f498518489e265a808f87dcd5) | [✨ full](https://assets.escartem.moe/repo/0x09ba84aa77f77987f7ce7d81609414bd) | - | - |
+| **5.8** | [✨ patch](https://assets.escartem.moe/repo/cccf1317c4b9e312ac58b4ce612485cb) \| [✨ full](https://assets.escartem.moe/repo/0x41558792ea434f7ab03927bc64468c23) | - | - |
+| **5.7** | [✨ patch](https://assets.escartem.moe/repo/91482cd90a7268ccb12bacae64489d7f) \| [✨ full](https://assets.escartem.moe/repo/0x525351a19f3ef2f8149d82df04df42bb) | - | - |
+| **5.6** | [✨ patch](https://assets.escartem.moe/repo/9f9917f5c550dd07102f3b7ec1578e43) \| [✨ full](https://assets.escartem.moe/repo/0x43be6885fedd5412c04533fa75a2c734) | - | - |
+| **5.5** | [✨ patch](https://assets.escartem.moe/repo/2872f60f498518489e265a808f87dcd5) \| [✨ full](https://assets.escartem.moe/repo/0x09ba84aa77f77987f7ce7d81609414bd) | - | - |
 | **5.4** | [✨ patch](https://assets.escartem.moe/repo/a097b56e58eafd8f3fd7989522f9bc68) | - | - |
 | **5.3** | [✨ patch](https://assets.escartem.moe/repo/569d799c84cd27059625cfe6c45449e7) | - | - |
 | **5.2** | [✨ patch](https://assets.escartem.moe/repo/b690bcde00e121a78c20e0448a8b2c64) | - | - |
