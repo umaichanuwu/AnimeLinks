@@ -24,6 +24,7 @@
 ##### [Punishing Gray Raven](https://github.com/umaichanuwu/AnimeLinks/#punishing-gray-raven-1)
 ##### [Strinova](https://github.com/umaichanuwu/AnimeLinks/#strinova-1)
 ##### [Cat Fantasy](https://github.com/umaichanuwu/AnimeLinks/#cat-fantasy-1)
+##### [Project Sekai](https://github.com/umaichanuwu/AnimeLinks/#project-sekai-1)
 
 
 ---
@@ -113,6 +114,7 @@
 
 | _Version_ | _Textures_ | _Readme_ | _Asset Map_ |
 | --- | --- | --- | --- |
+| 3.6 | [all textures](https://assets.escartem.moe/repo/76699345232fdf78315215fc942dcfe9) \| [patch textures](https://assets.escartem.moe/repo/5c397e7cd24de52dc2a8ccdb245c3ccd) | - | - | - |
 | 3.5 | [all textures](https://assets.escartem.moe/repo/9d91b0ea7cb277de6ea198fc3fe295e5) \| [patch textures](https://assets.escartem.moe/repo/a12a42c7fbadac70afa0041d1b5fcf13) | - | - | - |
 | 3.4 | [all textures](https://assets.escartem.moe/repo/40952c6182064c3e670e1b1531bbfcef) \| [patch textures](https://assets.escartem.moe/repo/7d1dcd54ea14c9a57f22c293a132c920) | - | - | - |
 | 3.3 | [all textures](https://assets.escartem.moe/repo/435b06455b2f2353dd51f912df062b69) \| [patch textures](https://assets.escartem.moe/repo/e8bad039580e81426dbdf9d722819a4f) | - | - | - |
@@ -159,6 +161,7 @@
 
 | _Version_ | _Links_ |
 | --- | --- |
+| 2.8 | [browse](https://assets.escartem.moe/repo/a8202c6c5d970d2568b1482393dd3daf) |
 | 1.8 | [browse](https://assets.escartem.moe/repo/65d730234691152c3dd36ea1ea067372) |
 | 1.4 | [browse](https://github.com/Escartem/Reverse1999Dump/tree/cb9a2aa7473f3259bc3f5a2ca5a0b5163a836b5b) | [download](https://github.com/Escartem/Reverse1999Dump/archive/cb9a2aa7473f3259bc3f5a2ca5a0b5163a836b5b.zip) |
 | 1.2 | [browse](https://github.com/Escartem/Reverse1999Dump/tree/40b8c560e094cccc68fc9035c151ba0ac07e0c27) | [download](https://github.com/Escartem/Reverse1999Dump/archive/40b8c560e094cccc68fc9035c151ba0ac07e0c27.zip) |
@@ -197,3 +200,10 @@
 | --- | --- |
 | 1.0.12.1 | [browse](https://assets.escartem.moe/repo/bed0ceb670e22def7a3728818ce42d6f) |
 
+---
+
+# Project Sekai
+
+| _Version_ | _Textures_ |
+| --- | --- |
+| 5.3 | [browse](https://assets.escartem.moe/repo/71a0fd855983e5579a6838a53fe2f9fb) |
